@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZXZsadasd3534", "ZXZsadasd3534\ZXZsadasd3534.csproj", "{7D34BBDB-0B4A-4232-819E-387E99316EA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZXZsadasd3534.UITests", "ZXZsadasd3534.UITests\ZXZsadasd3534.UITests.csproj", "{5B76BB3C-3369-466C-A321-386E3A6C7529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B76BB3C-3369-466C-A321-386E3A6C7529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B76BB3C-3369-466C-A321-386E3A6C7529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B76BB3C-3369-466C-A321-386E3A6C7529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B76BB3C-3369-466C-A321-386E3A6C7529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D34BBDB-0B4A-4232-819E-387E99316EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D34BBDB-0B4A-4232-819E-387E99316EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D34BBDB-0B4A-4232-819E-387E99316EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D34BBDB-0B4A-4232-819E-387E99316EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
